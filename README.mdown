@@ -1,0 +1,4 @@
+The "Kastner" Project
+=====================
+
+This is a project for blog posts, personal data (like weight) and goals.
